@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(41, 70, 70);
+    color:aliceblue;
+}
+
+h1 {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(249, 155, 121);
+}
+
+h1,
+.link {
+    font-weight: bold;
+}
+
+a:link {
+    color:khaki;
+}
+
+a:visited {
+    color:rgb(211, 169, 115) 
+}
